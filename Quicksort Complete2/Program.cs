@@ -64,7 +64,11 @@ namespace Quicksort_Complete
                 arr[i] = rnd.Next();
             }
 
-            Console.WriteLine("Unsorted");            
+            Console.WriteLine("Unsorted");
+            foreach(int e in arr)
+            {
+                Console.WriteLine(e);
+            }
 
             Stopwatch stopwatch = new();
 
@@ -73,7 +77,12 @@ namespace Quicksort_Complete
             Quicksort(arr, 0, length - 1);
             stopwatch.Stop();
 
-            Console.WriteLine("Sorted");           
+            Console.WriteLine("Sorted");
+            
+            foreach(int e in arr)
+            {
+                Console.WriteLine(e);
+            }
 
             Console.WriteLine("Elements: " + length);
             Console.WriteLine(" Elapsed Time for Quicksort: {0} ms", stopwatch.Elapsed.Milliseconds);
