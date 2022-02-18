@@ -1,0 +1,15 @@
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\Quicksort Complete2.exe
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\Quicksort Complete2.deps.json
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\Quicksort Complete2.runtimeconfig.json
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\Quicksort Complete2.dll
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\ref\Quicksort Complete2.dll
+C:\Users\davve\source\repos\Quicksort Complete2\bin\Debug\net6.0\Quicksort Complete2.pdb
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.csproj.AssemblyReference.cache
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.AssemblyInfoInputs.cache
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.AssemblyInfo.cs
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.csproj.CoreCompileInputs.cache
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.dll
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\ref\Quicksort Complete2.dll
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.pdb
+C:\Users\davve\source\repos\Quicksort Complete2\obj\Debug\net6.0\Quicksort Complete2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\Bubblesort Complete2.exe
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\Bubblesort Complete2.deps.json
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\Bubblesort Complete2.runtimeconfig.json
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\Bubblesort Complete2.dll
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\ref\Bubblesort Complete2.dll
+C:\Users\davve\source\repos\Bubblesort Complete2\bin\Debug\net6.0\Bubblesort Complete2.pdb
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.csproj.AssemblyReference.cache
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.AssemblyInfoInputs.cache
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.AssemblyInfo.cs
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.csproj.CoreCompileInputs.cache
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.dll
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\ref\Bubblesort Complete2.dll
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.pdb
+C:\Users\davve\source\repos\Bubblesort Complete2\obj\Debug\net6.0\Bubblesort Complete2.genruntimeconfig.cache
