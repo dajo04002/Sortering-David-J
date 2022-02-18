@@ -43,6 +43,11 @@ namespace Selectionsort_Complete
             
 
             Console.WriteLine("Unsorted");
+            
+            foreach(int e in arr)
+            {
+                Console.WriteLine(e);
+            }
 
             Stopwatch stopwatch = new();
 
@@ -51,6 +56,11 @@ namespace Selectionsort_Complete
             stopwatch.Stop();
 
             Console.WriteLine("Sorted");
+            
+            foreach(int e in arr)
+            {
+                Console.WriteLine(e);
+            }
 
             Console.WriteLine("Elements: " + length);
             Console.WriteLine(" Elapsed Time for Selectionsort: {0} ms", stopwatch.Elapsed.Milliseconds);
